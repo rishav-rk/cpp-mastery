@@ -1,2 +1,2 @@
 # cpp-mastery
-A Repository where i upload my learning for C++
+A repository where I upload my learning for C++
